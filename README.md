@@ -1,5 +1,5 @@
 # djangoproj.studybuddy
-                                                                                                      StudyBuddy
+<h1>StudyBuddy</h1>
 Cloning the repository
 --> Clone the repository using the command below :
 
