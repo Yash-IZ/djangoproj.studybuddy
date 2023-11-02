@@ -72,3 +72,5 @@ Enjoy using StudyBuddy to enhance your learning experience!
 ---
 
 You can copy and paste these instructions into your GitHub repository's README file. Make sure to replace `envname` with your preferred virtual environment name, and ensure you provide any additional project-specific details or information as needed.
+![Screenshot (92)](https://github.com/Yash-IZ/djangoproj.studybuddy/assets/119828968/307d1416-ca8f-4af7-883d-399a2b82486a)
+
